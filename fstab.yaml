@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p162620-e1741287.adobeaemcloud.com/bin/franklin.delivery/sivaprakash-repo/eds-ue-trainning/siva-eds-ue-trainning/main"
+    url: "https://author-p162620-e1741287.adobeaemcloud.com/bin/franklin.delivery/sivaprakash-repo/eds-ue-trainning/main"
     type: "markup"
     suffix: ".html"

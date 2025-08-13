@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "https://author-p162620-e1741287.adobeaemcloud.com/content/aem-boilerplate/:/",
-    "https://author-p162620-e1741287.adobeaemcloud.com/content/aem-boilerplate/configuration:/.helix/config.json",
-    "https://author-p162620-e1741287.adobeaemcloud.com/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/siva-eds-ue-trainning/:/",
+    "/content/siva-eds-ue-trainning/configuration:/.helix/config.json",
+    "/content/siva-eds-ue-trainning/metadata:/metadata.json"
   ],
   "includes": [
-    "https://author-p162620-e1741287.adobeaemcloud.com/content/aem-boilerplate/"
+    "/content/siva-eds-ue-trainning/"
   ]
 }
